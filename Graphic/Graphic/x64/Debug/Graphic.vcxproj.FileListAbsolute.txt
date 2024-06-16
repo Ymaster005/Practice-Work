@@ -1,0 +1,3 @@
+C:\My folders\Games\Visual Studio Projects\Graphic\Graphic\x64\Debug\Graphic.vcxproj.AssemblyReference.cache
+C:\My folders\Games\Visual Studio Projects\Graphic\Graphic\x64\Debug\Graphic.MyForm.resources
+C:\My folders\Games\Visual Studio Projects\Graphic\Graphic\x64\Debug\Graphic.vcxproj.GenerateResource.cache
